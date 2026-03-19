@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="DefaultBuild" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="D:/codec#/BaoLiXi/BaoLiXi/PrintingManagement.csproj">
+    <BuildType Solution="DefaultBuild|*" Project="Release" />
+  </Project>
+</Solution>
