@@ -20,7 +20,7 @@ Hệ thống hỗ trợ tính giá sản phẩm in (bao lì xì, hộp, túi, ..
 
 ## Tài khoản mặc định
 - Username: `admin`
-- Password: `admin123`
+- Password: `123456`
 
 ## Hướng dẫn cài đặt
 
